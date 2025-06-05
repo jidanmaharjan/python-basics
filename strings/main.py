@@ -30,3 +30,5 @@ print(chr(65))  # Get character from ASCII value 65
 words = ['Hello', 'World']
 sentence = ''.join(words)  # Combine without spaces
 print(sentence)  # HelloWorld
+
+
